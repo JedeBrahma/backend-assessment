@@ -8,6 +8,6 @@ CREATE TABLE users(
     country varchar(255),
     photo text,
     about text,
-    latitude integer,
-    longitude integer
+    latitude float,
+    longitude float
 );
